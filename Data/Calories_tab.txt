@@ -1,0 +1,923 @@
+Food	Variety	Preorpost	Portion_Amount	Unit	Added_Sugars	Calories
+Sour cream	dip	post	a quarter	cup	1.6	134
+Ice cream	regular	pre	one	cup	95.2	267
+ice milk	"Low fat, low sugar "	pre	one	cup	74.0	153
+Cheese	cheddar or Swiss	pre	a quarter	cup shredded	0.0	114
+"Cottage cheese, "	creamed	pre	half	cup	0.0	108
+Ricotta cheese	regular	pre	a quarter	cup	0.0	96
+Cream cheese 	regular	pre	one	Tablespoon	0.0	51
+Slice cheese 	American	pre	one	slice 	0.0	71
+Cheese spread 	none	none	four	Tablespoons	7.3	177
+Cheese sauce	none	none	a quarter	cup	0.0	109
+Alfredo sauce	none	none	a quarter	cup	0.0	249
+cheese sticks	fried	pre	three	pieces or 4 inch 	4.4	503
+beef steak 	grilled	post	four	"ounces cooked, boneless"	0.0	233
+steak	grilled	post	four	"ounces cooked, boneless"	0.0	233
+Roast beef 	cooked	post	four	ounces	0.0	302
+Beef brisket	cooked	pre	four	ounces	0.0	212
+Pudding	regular instant or canned	pre	half	cup 	57.8	133
+Grilled cheese 	sandwich	post	one	regular	8.2	290
+Turkey lunch meat	fat free	pre	one	ounce	0.0	29
+Coffee	regular	pre	one	sixteen fluid ounce cup	0.0	14
+Latte	none	none	one	fourteen fluid ounce cup	0.0	143
+Cappuccino	none	none	one	seventeen fluid ounce cup	0.0	160
+Tofu	firm	post	a quarter	 of three ounce block 	0.0	57
+milk	whole	pre	one	cup	0.0	146
+Buttermilk	none	none	one	cup	0.0	98
+condensed milk	sweetened	pre	a quarter	cup	142.9	246
+Soymilk	regular	pre	one	cup	0.0	98
+Plain yogurt	whole milk	post	one	8 oz container	0.0	138
+Frozen yogurt	whole milk	post	one	cup	110.6	221
+Chocolate milk	made with whole milk	post	one	school carton	48.3	208
+cocoa 	instant 	pre	one	packet dry mix with water	65.5	113
+Malted milk 	Ovaltine	post	one	cup	22.1	174
+Milk shake 	none	none	one	10 ounce	158.4	393
+fruit smoothie 	made with milk	post	twenty	fluid ounces 	206.8	496
+Chocolate drink	flavored 	pre	nine	fluid ounce bottle	50.8	129
+Slim Fast	none	none	one	cup	104.7	174
+Light cream	none	none	two	Tablespoons 	0.0	59
+Half & Half	none	none	two	Tablespoons 	0.0	39
+Whipped cream	sweetened	pre	a quarter	cup	6.7	104
+Coffee Mate 	liquid	pre	two	Tablespoons	13.2	41
+Coffee Mate Lite 	liquid	pre	two	Tablespoons 	10.6	21
+Sour cream	none	none	one	individual container	0.0	64
+Ground beef	eighty percent lean	pre	one	ounce after cooking	0.0	75
+Beef jerky	none	none	one	piece Slim Jim	3.3	39
+Pastrami beef	none	none	one	slice 	0.0	98
+pork chop 	grilled	pre	one	medium	0.0	216
+Tea	unsweetened	pre	one	cup	0.0	2
+Soft drink	diet	pre	one	 16 fluid ounce	0.0	5
+Fruit drink 	punch ale or cooler	post	one	cup	97.0	119
+Lemonade	none	none	one	cup	93.2	99
+Cranberry juice 	cocktail	post	one	cup	118.0	144
+Gatorade 	or powerade	post	one	cup	50.0	60
+Pedialyte	none	none	one	cup	0.0	25
+Beer 	none	none	one	can	0.0	148
+Lite beer	none	none	one	can	0.0	101
+Cordial 	or liqueur	post	one	cordial glass	18.0	71
+Bloody Mary	none	none	eight	fluid ounces (no ice)	0.0	199
+Gin & tonic	none	none	eight	fluid ounces (no ice)	61.0	182
+Manhattan	none	none	four	fluid ounces (no ice)	0.0	263
+Margarita	none	none	four	fluid ounces (no ice)	38.2	270
+Martini	none	none	four	fluid ounces (no ice)	0.0	260
+Rum & coke	none	none	eight	fluid ounces (no ice)	65.7	182
+Pina colada	none	none	eight	fluid ounces (no ice)	146.5	418
+Liqueur with cream	none	none	two	fluid ounces	22.7	203
+Wine	table	pre	one	standard wine glass	0.0	114
+Dessert wine	none	none	one	small wine glass	0.0	165
+Wine cooler	none	none	eight	fluid ounces (no ice)	45.4	127
+Sangria	none	none	eight	fluid ounces (no ice)	64.4	167
+Brandy	none	none	two	fluid ounces	0.0	128
+Whiskey	none	none	two	fluid ounces	0.0	140
+Gin	none	none	one	jigger (jigger = 1.5 oz)	0.0	110
+Gin	none	none	two	fluid ounces	0.0	147
+Rum	none	none	two	fluid ounces	0.0	128
+Vodka or tequila	none	none	two	fluid ounces	0.0	128
+Water	none	none	two	fluid ounces	0.0	0
+Fitness Water 	none	none	one	8 fl ounce cup	11.9	12
+Plain yogurt	 whole milk	post	one	ounce	0.0	17
+Flavored yogurt	whole milk	post	one	ounce	9.0	29
+Fruit yogurt	whole milk	post	one	ounce	15.2	34
+Mixed nuts	none	none	one	ounce	0.0	175
+Sesame seeds	none	none	one	Tablespoon	0.0	53
+Flax seed	none	none	one	Tablespoon	0.0	45
+Wheat cracker	none	none	a quarter	cup	5.5	53
+"Bulgur,"	 no fat added	post	half	"cup, cooked"	0.0	56
+"Couscous, "	no fat added	post	half	"cup, cooked"	0.0	87
+Raisins	none	none	one	Tablespoon	0.0	27
+Romaine lettuce	none	none	one	medium leaf	0.0	2
+Vegetable oil	none	none	one	Teaspoon	0.0	40
+Coffee Mate 	Lite  (powder)	post	one	packet	8.5	13
+Cool Whip	none	none	a quarter	cup	16.7	60
+Lowfat Cool Whip	none	none	a quarter	cup	0.9	41
+Sour cream	none	none	two	Tablespoons	0.0	62
+Mozzarella cheese	part skim	post	a quarter	cup shredded	0.0	85
+Parmesan cheese	none	none	one	tablespoon	0.0	22
+Romano cheese	none	none	one	tablespoon	0.0	22
+Jello	none	none	half	cup	66.0	74
+Jello with fruit	none	none	half	cup	41.2	78
+Sugar-free Jello 	(diet)	post	half	cup	0.0	5
+Sugar-free Jello with fruit	(diet)	post	half	cup	0.0	40
+Fruit ice	none	none	half	cup	121.7	124
+Italian fruit ice	none	none	half	cup	121.7	124
+Milk chocolate bar 	none	none	one	Big Block bar 2.2 ounces	108.3	332
+Krackel or Crunch Bar	none	none	one	Big Block bar 2.2 ounces	115.7	308
+Milk chocolate fruit and nut bar	none	none	one	bar 1.2 ounces	51.4	150
+Milk chocolate bar with almonds	none	none	one	Big Block bar 2.2 ounces	91.2	326
+Chocolate chips	none	none	a quarter	cup	5.4	201
+Dark chocolate	 candy bar	post	one	bar 1.45 ounces	5.0	207
+Coconut candy	chocolate-covered	pre	one	fun size bar	34.4	97
+Chocolate-covered candy	none	none	one	piece 	50.4	62
+Fruit roll-up	none	none	one	pouch 1 ounce	45.8	104
+Snickers 	candy bar	post	one	bar 2 ounces	100.0	273
+Butterfinger 	candy bar	post	one	bar 2.2 ounces	120.4	290
+Marshmallow	none	none	one	regular	16.1	23
+Marshmallows	none	none	one	Peep chicken or bunny	17.8	25
+Milky Way	 candy bar	post	one	1.9 oz bar	121.8	228
+Milky Way candy bar	none	none	one	king size bar (3.6 oz)	230.1	431
+Peanut brittle	none	none	one	medium piece 	23.0	44
+Peanut butter cups	Reese's	pre	one	miniature cup	11.2	36
+Hard candy	none	none	one	"roll, 12 pieces"	63.3	102
+M&M's 	plain chocolate candies	post	one	package 1.7 ounces	112.0	236
+M&M's plain chocolate candies	none	none	a quarter	cup (66 pieces)	121.3	256
+Taffy	none	none	one	piece	22.2	37
+Dietetic hard candy	none	none	one	Sweet'n Low candy	0.0	14
+Dietetic chocolate-covered candy	none	none	one	section candy bar	1.7	40
+Chewing gum	 made with sugar	post	one	piece	9.9	10
+Coffee	none	none	one	6 fluid counces  cup	0.0	7
+Tea	sweetened	pre	one	6 fluid counces  cup	52.5	53
+Tonic water	none	none	one	can	124.4	124
+Club soda	none	none	one	can	0.0	0
+Soft drink	regular	pre	one	can	153.7	155
+"Soft drink, diet"	none	none	one	can	0.0	4
+Vegetable oil 	none	none	a quarter	cup	0.0	482
+Blue cheese dressing	none	none	one	Tablespoon	1.3	77
+French dressing	none	none	one	Tablespoon	8.4	71
+Italian dressing 	oil and vinegar	post	one	Tablespoon	4.3	43
+Mayonnaise	regular	pre	one	Tablespoon	0.0	99
+Miracle whip salad dressing	none	none	one	Tablespoon	2.9	57
+Ranch dressing	none	none	one	Tablespoon	2.3	71
+Sweet & sour dressing	none	none	one	Tablespoon	2.2	2
+Thousand island dressing	none	none	one	Tablespoon	8.3	58
+salad dressing	Low-calorie 	pre	one	Tablespoon	5.0	24
+Low calorie mayonnaise	none	none	a quarter	cup	13.7	145
+Fat free Italian dressing	none	none	one	Tablespoon	1.7	7
+Fat free thousand island dressing	none	none	one	Tablespoon	9.8	21
+Fat free ranch dressing	none	none	one	Tablespoon	3.1	18
+White sugar 	granulated or lump	pre	one	teaspoon	16.3	16
+confectioner's sugar	none	none	one	teaspoon	9.5	10
+Brown sugar	none	none	one	"teaspoon, packed"	17.1	17
+Calorie-free sweetener	none	none	one	teaspoon	0.0	7
+Chocolate sauce 	thin type	post	one	Tablespoon	36.1	52
+Syrup 	none	none	one	Tablespoon	49.5	53
+Honey	none	none	one	Tablespoon	63.8	64
+Butterscotch sauce	none	none	one	Tablespoon	59.0	63
+Fudge sauce 	thick type	post	one	Tablespoon	41.4	73
+Fruit topping	none	none	one	Tablespoon	51.0	54
+Marshmallow topping	none	none	one	Tablespoon	11.2	20
+Nut topping	wet	pre	one	Tablespoon	40.9	90
+Nutella 	chocolate hazelnut spread	post	one	Tablespoon	30.4	84
+Chocolate icing	none	none	one	Tablespoon	48.6	67
+White icing	none	none	one	Tablespoon	59.8	80
+Dietetic syrup	none	none	one	Tablespoon	1.3	6
+Dietetic topping	none	none	one	Tablespoon	1.5	8
+Sweet and sour sauce	 Vietnamese	pre	two	Tablespoons	20.2	28
+Vanilla or rum dessert sauce	none	none	one	Tablespoon	10.8	24
+ Duck sauce 	none	none	 one 	 packet 	 4.24 	 22.33 
+Jelly	none	none	one	Tablespoon	27.5	51
+Jam	none	none	one	Tablespoon	44.5	55
+preserves	none	none	one	Tablespoon	29.6	36
+Dietetic jelly 	none	none	one	Tablespoon	0.0	25
+All-fruit preserves 	no added sugar	post	one	Tablespoon	0.0	37
+Jello	none	none	one	snack-size package	54.4	61
+Popsicle	none	none	one	single stick	63.4	63
+Sugar-free popsicle	diet	pre	one	single stick	0.0	17
+Slurpee or snow cone	none	none	one	cup	209.3	212
+Chocolate-covered almonds	none	none	a quarter	cup	22.3	241
+Tootsie roll	none	none	one	roll	97.1	139
+Caramel candy	none	none	one	piece	15.1	27
+Twix cookie bars	none	none	one	regular package	101.8	289
+Milk chocolate bar 	plain	pre	one	1.4 ounce bar	69.9	214
+Yellow corn 	corn on the cob	pre	one	medium ear	0.0	107
+Cooked eggplant	none	none	half	"cup, diced"	0.0	35
+Cooked mushrooms	combo with cream sauce	post	half	cup	0.0	22
+Vegetable combo 	Asian style	pre	half	cup	0.0	23
+Vegetable-pasta 	combo with cream sauce	post	half	cup	0.0	84
+Tofu and vegetables 	Monk's food	post	half	cup	0.0	84
+Chiles rellenos	none	none	one	chili	0.0	365
+Corn pudding 	scalloped corn	post	half	cup	5.7	128
+Corn fritter	none	none	half	cup	0.0	202
+Eggplant Parmesan	none	none	one	cup	0.0	317
+Stuffed mushrooms 	"with bread, meat & cheese"	post	one	stuffed cap	1.5	67
+Breaded fried mushrooms	none	none	half	cup	8.8	148
+Fried okra	none	none	half	cup	4.9	87
+Onion rings	none	none	one	fast food order	8.4	157
+Pea salad	none	none	half	cup	0.0	250
+Breaded fried summer squash	none	none	half	cup	10.9	185
+Breaded fried vegetable sticks	none	none	one	stick	0.2	29
+Vegetable tempura	none	none	one	piece	0.0	11
+Vegetable-pasta combo	none	none	half	cup	0.0	53
+Pickled beets	none	none	a quarter	cup	10.3	27
+Corn relish	none	none	a quarter	cup	1.1	51
+Kim chee 	made from cabbage	post	a quarter	cup	0.0	8
+Dill pickle	none	none	one	spear	0.0	5
+Pickle relish	none	none	one	packet (2 teaspoons)	1.3	13
+Sweet pickle 	gherkin	post	five	slices	4.0	35
+Horseradish	none	none	one	Tablespoon	0.0	7
+Mustard	none	none	one	teaspoon	0.0	3
+Green olives	none	none	five	small	0.0	21
+Black olives	none	none	five	small	0.0	18
+Tabasco sauce 	none	none	one	packet	0.0	2
+Cream of mushroom soup 	made with milk	post	one	cup	0.0	191
+French onion soup	none	none	one	cup	0.8	58
+Vegetable soup	none	none	one	cup	0.4	82
+Minestrone soup	none	none	one	cup	0.0	84
+Vegetable rice soup	none	none	one	cup	2.7	106
+Vegetable beef soup 	canned	pre	one	cup	0.0	78
+Vegetable broth	none	none	one	cup	2.1	17
+Wrap sandwich 	vegetables only	post	one	wrap	0.0	472
+Butter	none	none	a quarter	stick	0.0	203
+Whipped butter	none	none	one	Tablespoon	0.0	67
+Light butter	none	none	a quarter	stick	0.0	141
+Stick margarine	none	none	a quarter	stick	0.0	199
+Tub margarine	none	none	one	teaspoon	0.0	34
+Tub spread 	margarine type	pre	one	teaspoon	0.0	25
+Reduced-calorie spread 	margarine type	pre	one	pat 	0.0	17
+Fat-free spread (margarine type)	margarine type	pre	one	teaspoon	0.0	2
+Bacon grease	 or meat drippings	post	one	Tablespoon	0.0	108
+Vegetable shortening	none	none	one	teaspoon	0.0	37
+Lemon-butter sauce	none	none	one	Tablespoon	0.0	107
+Hollandaise sauce	none	none	one	Tablespoon	0.0	67
+Tartar sauce	none	none	one	Tablespoon	1.5	74
+Horseradish sauce	none	none	one	Tablespoon	0.0	29
+Pesto sauce	none	none	one	Tablespoon	0.0	82
+Low-calorie salad dressing	none	none	one	packet	13.6	65
+Fat-free mayonnaise-type dressing	none	none	one	Tablespoon	6.2	13
+Low-calorie mayonnaise	none	none	one	Tablespoon	3.4	36
+Raw tomatoes	none	none	one	wedge a quarter of a medium tomato	0.0	6
+Cooked tomatoes	none	none	half	cup	0.0	22
+Stewed tomatoes	none	none	half	cup	6.9	33
+Fried green tomatoes	none	none	three	slices	0.0	212
+Tomato juice	none	none	one	cup	0.0	41
+V-8 juice 	tomato vegetable	pre	one	cup	0.0	44
+Ketchup 	none	none	one	Tablespoon	9.5	14
+Salsa	none	none	one	Tablespoon	0.0	4
+Enchilada sauce	none	none	a quarter	cup	0.0	79
+Green tomato-chile sauce	none	none	one	Tablespoon	0.0	11
+Tomato sauce	none	none	half	cup	0.0	39
+Spaghetti sauce 	meatless	post	half	cup	3.6	71
+Barbeque sauce	none	none	four	Tablespoons	10.4	47
+cabbage	raw	pre	half	cup chopped	0.0	14
+cauliflower	raw	pre	half	cup	0.0	13
+celery	raw	pre	half	cup diced	0.0	8
+Chives	none	none	one	Tablespoon	0.0	1
+Cilantro	none	none	a quarter	cup	0.0	1
+Cucumber	none	none	one	"stick or strip (4"" long)"	0.0	1
+Garlic	none	none	one	clove	0.0	4
+Lettuce	none	none	one	"cup, chopped or shredded"	0.0	6
+Mixed salad greens	none	none	one	"cup, chopped or shredded"	0.0	9
+mushrooms	raw	pre	half	cup pieces or slices	0.0	8
+Raw onion	raw	pre	a quarter	cup	0.0	17
+Parsley	none	none	five	springs	0.0	0
+jalapeno	raw	pre	one	pepper	0.0	19
+sweet pepper 	raw	pre	one	slice or ring	0.0	2
+Radish	none	none	a quarter	cup slices	0.0	5
+Coleslaw	none	none	half	cup	6.6	134
+Tossed salad 	lettuce and vegetables	post	one	cup	0.0	12
+Artichoke	hearts	post	half	cup	0.0	42
+asparagus	cooked	pre	five	small or thin spears	0.0	12
+lima beans	cooked	pre	half	cup	0.0	104
+green beans	cooked	pre	half	cup	0.0	14
+bean sprouts	cooked	pre	half	cup	0.0	29
+beets	cooked	pre	half	cup slices	0.0	37
+brussels sprouts	cooked	pre	half	cup	0.0	33
+cabbage	cooked	pre	half	cup	0.0	17
+Cooked cauliflower	none	none	half	cup flowerets	0.0	17
+Cream style corn	none	none	half	cup	11.7	92
+corn	none	none	one	large ear	0.0	122
+okra	Boiled or steamed 	pre	half	cup	0.0	18
+Cooked onions	none	none	half	cup	0.0	46
+Blackeye peas	none	none	half	cup	0.0	79
+Cooked green peas	none	none	half	cup	0.0	66
+Cooked sweet peppers	none	none	half	cup	0.0	19
+Cooked hot peppers	none	none	one	pepper	0.0	18
+Cooked hot peppers	none	none	one	Tablespoon	0.0	4
+Sauerkraut	none	none	half	cup	0.0	13
+Cooked snowpeas	none	none	half	cup	0.0	34
+Zucchini 	none	none	half	cup	0.0	18
+summer squash	none	none	half	cup	0.0	18
+Cooked turnip	none	none	half	cup pieces	0.0	17
+Water chestnut	none	none	half	cup	0.0	40
+Vegemite	none	none	one	teaspoon	0.0	9
+Succotash 	lima beans and corn	post	half	cup	0.0	88
+Bean salad 	"green, yellow, kidney beans"	post	half	cup	2.2	57
+Sauteed green peppers & onions	none	none	half	cup	0.0	40
+Cooked mixed vegetables	none	none	half	cup	0.0	59
+Stew vegetables	none	none	half	cup	0.0	58
+Boiled potatoes	none	none	eight	ounces raw	0.0	156
+Roasted potatoes	none	none	half	cup	0.0	84
+Potato chips	regular	pre	one	cup	0.0	107
+"French fries, "	deep-fried	post	one	medium fast food order	3.0	457
+Home fries	none	none	half	cup	0.0	179
+Hash browns	none	none	half	cup	0.0	157
+Potato skin 	with cheese & bacon	post	one	order 10 halves	0.0	1667
+Mashed potatoes	" with milk, no butter"	post	half	cup	0.0	85
+Tator tots	none	none	half	cup	0.0	142
+Stuffed baked potato	with sour cream	post	half	medium potato	0.0	158
+Potato salad with egg	none	none	half	cup	0.5	131
+Potato salad	none	none	half	cup	0.6	129
+Potato pancake 	none	none	one	large 	0.0	70
+latke	none	none	one	large 	0.0	70
+Cream of potato soup	none	none	one	cup	0.0	136
+Plantain soup	none	none	one	cup	0.0	98
+Plantain 	boiled or baked	post	half	medium	0.0	137
+Fried plantain	none	none	half	medium 	0.0	249
+Cassava	none	none	one	piece	0.0	32
+Cassava bread	none	none	one	piece 	0.0	299
+Cassava with creole sauce	none	none	one	portion	0.0	308
+Taro 	"cocoyam, boiled"	post	half	"cup, pieces"	0.0	106
+Romaine lettuce	none	none	one	cup	0.0	8
+Caesar salad with dressing	none	none	one	cup	1.3	168
+Greens	cooked without fat	post	half	cup	0.0	18
+spinach	raw	pre	one	cup	0.0	7
+Cooked spinach	none	none	half	cup	0.0	30
+Creamed spinach	none	none	half	cup	0.0	78
+broccoli	raw	pre	half	cup flowerets	0.0	12
+Raw broccoli	none	none	half	cup chopped	0.0	15
+Cooked broccoli	none	none	half	cup flowerets	0.0	17
+Broccoli with cheese sauce	none	none	half	cup	0.0	121
+Broccoli-rice casserole	none	none	half	cup	0.0	144
+Cream of broccoli soup	none	none	one	cup	0.0	206
+Broccoli cheese soup	none	none	one	cup	0.2	165
+carrots	raw	pre	half	cup strips or slices	0.0	25
+Carrot salad	none	none	half	cup	0.0	208
+Cooked carrots	none	none	half	cup slices	0.0	27
+Glazed carrots	none	none	half	cup	25.6	101
+Carrot juice	none	none	one	cup	0.0	94
+Peas and carrots	none	none	half	cup	0.0	38
+Baked sweet potato	none	none	one	small	0.0	53
+Candied sweet potato	none	none	half	cup	65.5	146
+Mashed sweet potato	none	none	half	cup	0.0	107
+Raw tomatoes	none	none	one	"medium whole (2-3/5"" across)"	0.0	22
+tomatoes	raw	pre	half	"cup, chopped or sliced"	0.0	16
+Barbeque sauce	none	none	one	packet	1.5	7
+Steak sauce	 A one	pre	one	Tablespoon	3.1	10
+Cocktail sauce	none	none	four	Tablespoons	31.3	55
+"Tomato cucumber salad, with oil & vinegar"	none	none	half	cup	10.4	92
+Cream of tomato soup	none	none	one	cup	4.2	146
+Tomato soup 	made with water	post	one	cup	4.2	85
+bean sprouts	raw	pre	half	cup	0.0	16
+Nectarine	raw	pre	one	whole	0.0	60
+Papaya	raw	pre	half	"cup, cubes"	0.0	27
+Peach	raw	pre	half	"cup, diced"	0.0	36
+Pear	raw	pre	one	medium (2-1/2 per lb)	0.0	96
+Persimmons 	raw	pre	one	persimmon	0.0	118
+Pineapple	raw	pre	half	"cup, diced"	0.0	37
+Plum 	raw	pre	one	plum	0.0	30
+Pomegranate 	raw	pre	half	pomegranate	0.0	52
+Watermelon	raw	pre	half	"cup, diced"	0.0	23
+Blueberries	raw	pre	half	cup	0.0	41
+Cranberry sauce	none	none	a quarter	cup	92.6	105
+Raspberries 	raw	pre	half	cup	0.0	32
+Strawberries (raw)	raw	pre	half	"cup, whole"	0.0	23
+Ambrosia	none	none	half	cup	14.3	50
+Fruit salad 	no dressing	post	half	cup	0.0	48
+Fruit cocktail 	(canned in heavy syrup)	post	one	snack size package (4 oz)	48.8	82
+Waldorf salad	none	none	half	cup	0.0	121
+Guacamole	none	none	a quarter	cup	0.0	91
+Fruit soup	none	none	one	cup	40.2	177
+Frozen fruit juice bar	none	none	one	bar	0.0	61
+Low-calorie frozen fruit juice bar	none	none	one	bar	12.5	24
+Sorbet 	(made with fruit)	post	half	cup	0.0	82
+Fruit juice blend 	Juicy Juice	pre	one	cup	0.0	133
+Apple cider	none	none	one	cup	0.0	117
+Apple juice	100 percent 	pre	one	cup	0.0	117
+Cranberry juice 	100 percent 	pre	one	cup	0.0	116
+Grape juice 	100 percent 	pre	one	cup	0.0	154
+Pineapple juice	100 percent 	pre	one	cup	0.0	140
+Prune juice 	100 percent 	pre	one	cup	0.0	182
+fruit smoothie	no milk	post	one	commercial smoothie (20 fl oz)	87.4	326
+Peach nectar	none	none	one	cup	61.8	134
+Vinegar	none	none	one	Tablespoon	0.0	2
+Baked potato	 plain 	post	one	medium	0.0	121
+Boiled potatoes	none	none	one	medium 	0.0	142
+Potato chips	regular all flavors	post	ten	chips	0.0	96
+Reduced fat potato chips 	none	none	one	cup	0.0	94
+Reduced fat potato chips 	none	none	ten	chips	0.0	80
+Pringles	potato chips	post	one	"cup, stacked (20 chips)"	0.0	240
+Potato sticks	none	none	half	cup	0.0	99
+Au gratin potatoes	none	none	half	cup	0.0	154
+Scalloped potatoes	none	none	half	cup	0.0	108
+French fries	oven-baked	post	one	cup	0.0	113
+Seafood stuffed shells with tomato sauce	none	none	three	jumbo shells	0.2	306
+Cheese tortellini with tomato sauce	none	none	one	cup	0.2	333
+Cheese tortellini with cream sauce	none	none	one	cup	0.0	390
+"Cheese tortellini, no sauce"	none	none	one	cup	0.1	354
+Lo mein 	no meat	post	one	cup	0.0	234
+Shrimp lo mein	none	none	one	cup	1.2	236
+Macaroni and cheese	homemade type	pre	half	cup	1.0	237
+Macaroni salad	none	none	half	cup	1.1	170
+Macaroni salad with egg	none	none	half	cup	0.9	179
+Pasta salad with vegetables	none	none	half	cup	4.4	117
+Pasta salad with meat and vegetables	none	none	half	cup	3.3	148
+Noodle pudding	none	none	half	cup	0.4	148
+Wrap sandwich 	"vegetables, rice"	pre	one	wrap	0.0	675
+Chicken noodle soup	none	none	one	cup	0.1	75
+Chicken rice soup	none	none	one	cup	0.0	60
+Matzo ball soup	none	none	one	cup	0.0	118
+Ramen noodle soup	none	none	half	"package, prepared"	0.0	170
+Won ton soup	none	none	one	cup	0.0	183
+Tortilla soup	none	none	one	cup	0.0	238
+Grapefruit	raw	pre	half	medium (4 inch across)	0.0	41
+Orange	raw	pre	one	section or slice	0.0	8
+Mandarin oranges 	in light syrup	post	half	cup	29.0	77
+Tangerine 	none	none	one	"medium (2-3/8"" across)"	0.0	37
+Grapefruit juice 	unsweetened	pre	one	cup	0.0	94
+Lemon juice	none	none	one	Tablespoon	0.0	4
+Orange juice	one hundred percent	pre	one	cup	0.0	105
+Dried fruit 	none	none	a quarter	cup	0.0	86
+Apple chips	none	none	ten	chips	0.0	101
+Banana chips	none	none	a quarter	cup	3.4	66
+Fig	dried	pre	one	fig	0.0	47
+Prunes	none	none	half	cup pitted	0.0	204
+Raisins	none	none	a quarter	cup	0.0	108
+Apple	raw	pre	one	medium   - about 3 per pound	0.0	72
+Applesauce	unsweetened	pre	half	cup	0.0	52
+Baked apple 	sweetened	pre	one	whole	76.5	162
+Apricot	raw	pre	one	whole	0.0	17
+Avocado	none	none	a quarter	"cup, cubes"	0.0	60
+Banana	none	none	one	medium	0.0	105
+Cantaloupe	none	none	half	"cup, balls"	0.0	30
+Maraschino cherries	none	none	a quarter	cup	46.5	66
+Sweet cherries 	raw	pre	half	cup cherries with pits	0.0	37
+Grapes	raw	pre	half	cup	0.0	55
+Guava	raw	pre	one	whole	0.0	46
+Kiwifruit	raw	pre	one	whole	0.0	46
+Honeydew	raw	pre	one	medium wedge	0.0	45
+Mango 	raw	pre	half	"cup, sliced"	0.0	54
+Bean burrito	none	none	one	medium	0.0	295
+Bean and cheese	none	none	one	Taco Bell burrito	0.0	519
+Beef and cheese enchilada	none	none	one	enchilada	0.0	213
+Chicken enchilada	none	none	one	enchilada	0.0	203
+Bean enchilada	none	none	one	enchilada	0.0	179
+Cheese enchilada	none	none	one	enchilada	0.0	226
+Beef taco with cheese and lettuce	none	none	one	taco or tostada	0.0	220
+Chicken and cheese quesadilla	none	none	one	piece	0.0	563
+Taquitoes	none	none	one	piece	0.0	191
+Chicken fajitas with veggies & guacamole	none	none	one	McDonald's fajita	0.0	133
+Beef fajitas with veggies	none	none	one	piece	0.0	397
+Cheese pizza	thin crust	pre	a quarter	large pizza	2.8	511
+"Vegetable pizza, "	thin crust	pre	one	slice	0.8	149
+Meat pizza	thin crust	pre	one	slice 	1.0	208
+Meat & veggie pizza	thin crust	pre	one	slice	0.8	193
+Pizza rolls or bites	none	none	one	miniature roll	0.2	42
+Egg roll with vegetables	none	none	one	piece	0.0	100
+Egg roll with meat	none	none	one	piece	0.0	113
+Fried wonton	none	none	one	piece	0.0	54
+Steamed dumpling	meat filled	pre	one	dumpling	0.3	41
+Quiche	"with meat, poultry or fish"	post	one	piece 	0.0	568
+Spinach quiche	none	none	one	piece 	0.0	342
+Meat and cheese turnover 	(Hot Pockets)	post	one	turnover	0.0	358
+"Sausage, egg, and cheese croissant"	none	none	one	croissant	18.9	539
+Meat lasagna	none	none	one	cup	8.3	390
+Spinach lasagna 	vegetarian	pre	one	piece 	7.2	279
+Meat ravioli with tomato sauce	none	none	half	cup	21.4	104
+Cheese ravioli 	no sauce	post	half	cup	0.0	185
+Spaghetti with tomato sauce	none	none	one	cup	3.4	250
+Spaghetti with meat sauce	none	none	one	cup	4.2	350
+Cheese manicotti with tomato sauce	none	none	one	cup	0.1	376
+Fried rice	plain	pre	half	cup	0.0	125
+Chicken fried rice	none	none	half	cup	0.0	166
+Shrimp fried rice	none	none	half	cup	0.0	161
+Nigiri sushi 	with fish and veggies	post	one	piece	4.7	36
+Maki sushi 	none	none	one	piece	4.1	30
+Rice and beans	none	none	half	cup	0.0	196
+Rice with tomato sauce	none	none	half	cup	0.0	126
+Stuffed pepper 	(with rice and meat)	post	half	pepper with filling	1.8	209
+Spanish rice	none	none	half	cup	2.4	106
+Rice with vegetables	none	none	half	cup	0.3	139
+Wrap sandwich 	"(meat, vegetables, rice)"	post	one	wrap	0.0	818
+Lucky Charms cereal	none	none	one	single serving box	47.9	110
+Raisin bran cereal	none	none	one	single serving box	31.5	124
+Rice Chex cereal	none	none	one	cup	10.0	124
+Rice Krispies cereal	none	none	one	single serving box	8.2	90
+Special K cereal	none	none	one	cup	12.8	117
+Corn Pops cereal	none	none	one	single serving box	48.8	106
+Frosted Flakes cereal	none	none	one	single serving box	45.9	117
+Total cereal	none	none	one	single serving box	18.3	92
+Trix cereal	none	none	one	single serving box	45.8	106
+Shredded wheat cereal	none	none	one	cup spoon size biscuits	0.0	170
+Wheaties cereal	none	none	one	cup	16.0	107
+"Wheat bran, unprocessed"	none	none	a quarter	cup	0.0	31
+Beef burrito 	none	none	one	small burrito	0.0	297
+Beef and bean burrito	none	none	one	medium burrito	0.0	331
+Beef and cheese burrito 	none	none	one	Taco Bell burrito	0.0	689
+Beef and cheese burrito (no beans)	none	none	one	medium burrito	0.0	494
+"Beef, bean, and cheese burrito"	none	none	one	Taco Bell burrito	0.0	671
+Beef taco	" (cheese, lettuce, tomato, salsa)"	post	one	Taco Bell Grande	0.0	339
+Beef soft taco	none	none	one	taco	0.0	262
+Chicken soft taco	none	none	one	taco	0.0	251
+Bean taco	" (cheese, lettuce, tomato, salsa)"	post	one	taco or tostada	0.0	143
+Taco salad 	"with beef, cheese, corn chips"	post	one	cup	0.0	193
+Tamale 	(with meat or chicken)	post	one	tamale	0.0	133
+Cheese nachos	none	none	one	cup	0.0	258
+Beef and bean nachos	none	none	one	cup	0.0	252
+Chicken nachos	none	none	one	order	0.0	543
+Beef chimachanga	none	none	one	piece	0.0	337
+Chicken chimichanga	none	none	one	order (4 mini pieces)	0.0	631
+Cheese quesadilla	none	none	one	piece	0.0	498
+Meat and cheese quesadilla	none	none	one	piece	0.0	605
+Fried pork chop	none	none	one	medium	0.0	153
+Breaded pork chop 	none	none	one	medium	3.7	304
+Roast pork tenderloin	none	none	four	ounces after cooking	0.0	195
+Smoked ham	none	none	one	medium slice	0.0	66
+Roast pork 	none	none	one	medium slice	0.0	87
+Canadian bacon	none	none	one	slice	0.0	43
+Bacon	none	none	one	"medium slice, cooked"	0.0	43
+Pork spareribs	none	none	one	large cut (3 ribs)	0.0	533
+BBQ spareribs & sauce	none	none	one	medium rib	2.2	124
+Fried pork rinds	none	none	one	"cup, pieces"	0.0	174
+Lamb chop	none	none	one	large 	0.0	224
+Broiled veal chop	none	none	one	large	0.0	292
+Veal cutlet 	fried	pre	one	cutlet	0.0	139
+Roasted veal	none	none	one	medium slice	0.0	97
+Roasted venison	none	none	four	ounces after cooking	0.0	215
+fried chicken	Battered 	pre	one	medium piece	0.0	249
+chicken breast	baked	pre	one	medium breast	0.0	191
+Fried chicken 	breast (no skin)	post	one	medium breast	0.0	158
+chicken dark meat	baked	pre	one	large dark meat quarter	0.0	343
+chicken thigh	fried	pre	one	medium thigh	0.0	158
+chicken wing 	fried	pre	one	medium wing	0.0	102
+Chicken patty 	breaded	pre	one	piece	0.0	226
+Chicken nuggets	none	none	one	fast food order-6 nuggets	0.0	217
+Roasted turkey	white & dark meat	post	one	medium slice	0.0	47
+Ground turkey	none	none	half	cup after cooking	0.0	148
+Turkey bacon	none	none	one	"medium slice, cooked"	0.0	42
+Roasted duck	none	none	one	half	0.0	1284
+Roasted Cornish game hen	none	none	one	hen	0.0	793
+beef liver	fried	pre	one	slice	0.0	148
+Fried chicken liver	fried	pre	one	cup	0.0	372
+Chicken liver pate	none	none	one	slice	0.0	57
+Hot dog 	none	none	one	piece	0.6	175
+Bratwurst	none	none	one	brat	0.0	281
+Bologna	none	none	one	medium slice	0.0	86
+Low fat bologna	none	none	one	medium slice	0.0	64
+Pepperoni	none	none	one	slice	0.1	26
+Polish sausage	none	none	half	"cup, sliced"	0.0	234
+Breakfast sausage 	(brown & serve)	post	one	patty	0.0	107
+Turkey sausage	none	none	one	medium slice 	0.0	59
+Vienna sausage	none	none	one	can	0.0	315
+Deli ham	regular	post	one	slice	0.0	45
+Deli chicken or turkey loaf	none	none	one	slice	0.0	43
+Deli sliced turkey or chicken breast	none	none	one	slice	3.9	29
+Deli sliced roast beef	none	none	one	slice	0.0	50
+Chicken salad spread	none	none	half	cup	0.0	208
+Ham salad spread	none	none	half	cup	0.0	273
+Baked fish	none	none	one	fillet	0.0	142
+Fried fish 	breaded or battered	post	one	fillet	0.0	267
+Baked battered fish fillet	none	none	one	patty or fillet	3.7	155
+Anchovy	none	none	two	ounces	0.0	119
+catfish	baked or broiled	post	one	fillet	0.0	116
+Fried catfish	none	none	one	fillet	0.0	182
+Baked or broiled cod	none	none	one	fillet	0.0	113
+ cod	baked or broiled	post	four	ounces after cooking	0.0	138
+Fried cod	none	none	one	fillet	0.0	190
+flounder	baked or broiled	post	one	fillet	0.0	173
+perch	baked or broiled	post	four	ounces after cooking	0.0	151
+salmon	baked or broiled	post	one	steak	0.0	243
+Smoked salmon	none	none	one	slice or piece	0.0	23
+Baked or broiled trout	baked or broiled	post	one	medium trout	0.0	306
+Baked or broiled tuna	baked or broiled	post	one	steak	0.0	228
+Canned tuna	in oil	post	half	"can, drained"	0.0	158
+Canned tuna in water	none	none	half	"can, drained"	0.0	97
+Fried whiting (floured or breaded)	none	none	four	ounces after cooking	2.6	248
+Fried calamari	none	none	a quarter	cup	0.9	74
+Fried clams	none	none	half	cup 	0.7	111
+Steamed clams	none	none	half	cup (1 cup=12 medium clams)	0.0	69
+Steamed clams 	none	none	one	"quart, in shell"	0.0	172
+Steamed crab 	none	none	one	medium blue crab	0.0	48
+crayfish	Steamed or boiled 	post	half	"cup, cooked"	0.0	57
+lobster	Steamed or boiled 	post	one	medium lobster tail	0.0	143
+Fried oysters	none	none	one	large oyster	0.4	55
+scallops	Baked or broiled 	post	half	"cup, cooked"	0.0	125
+Fried scallops 	none	none	half	"cup, cooked"	1.5	145
+shrimp	"Baked, broiled, or sauteed "	pre	half	"cup, cooked"	0.0	112
+Steamed or boiled shrimp	none	none	four	ounces after cooking	0.0	155
+Fried shrimp 	none	none	four	ounces after cooking	1.5	274
+Spaghetti sauce	with meat 	post	half	cup	2.1	141
+Chili con carne	(with beans)	post	half	cup	2.1	132
+Beef sloppy joe 	none	none	half	cup	18.4	186
+Salisbury steak with gravy	none	none	one	steak with gravy	1.0	218
+Teriyaki steak with sauce	none	none	half	cup	6.0	227
+Beef curry	none	none	half	cup	0.0	216
+Beef with BBQ sauce	none	none	half	cup	5.0	229
+Pork with BBQ sauce	none	none	half	cup	4.7	237
+Sweet & sour pork	none	none	half	cup	15.9	115
+Sausage gravy	none	none	half	cup	0.0	187
+Chicken cacciatore	none	none	one	breast with sauce	0.0	382
+Chicken teriyaki	none	none	one	breast with sauce	11.3	191
+Chicken with BBQ sauce	none	none	half	cup	4.0	250
+Buffalo wing 	none	none	one	"wing ""drumette"" with sauce"	0.0	73
+Sweet & sour chicken	none	none	half	cup	18.1	112
+Chicken curry	none	none	half	cup	0.0	146
+Chicken cordon bleu	none	none	one	"roll (breast,ham, sauce)"	2.3	502
+Chicken Parmigiana	none	none	one	"breast, sauce and cheese"	1.9	283
+Lemon chicken	none	none	half	cup	4.9	335
+Corned beef hash	none	none	half	cup	0.0	180
+Beef stroganoff with noodles	none	none	one	cup	0.0	343
+meatloaf	none	none	one	medium slice	0.1	220
+Chicken and rice with cream sauce	none	none	half	cup	0.0	177
+Chicken and dumplings	none	none	half	cup	0.0	184
+Crab cake	none	none	one	cake	0.0	106
+Gefilte fish	none	none	one	piece	0.0	77
+Imitation crabmeat	none	none	half	cup	0.0	72
+Tuna noodle casserole	none	none	one	cup	2.4	423
+Beef stew	with potatoes and vegetables	post	one	cup	0.0	199
+"Stir-fried beef, veggies & noodles"	none	none	one	cup	0.0	224
+Stuffed cabbage rolls	none	none	one	roll	4.4	117
+Stir-fried pork	vegetables & rice	post	one	cup	0.0	245
+Sweet & sour pork 	on rice	post	one	cup	23.4	268
+Chicken chow mein with noodles	none	none	one	cup	7.4	275
+Stir-fried chicken & veggies on rice	none	none	one	cup	0.4	234
+Chicken pot pie	none	none	one	cup	0.0	542
+turkey pot pie	none	none	one	cup	0.0	542
+Gumbo 	"(with rice, New Orleans type)"	post	one	cup	0.0	193
+Jambalaya	 (with meat & rice)	post	one	cup	0.0	393
+Greens with ham or pork	none	none	half	cup	0.0	39
+Stir-fried chicken and vegetables	none	none	half	cup	0.0	90
+General Tso chicken	none	none	half	cup	8.7	148
+Kung Pao chicken	none	none	half	cup	3.5	217
+Chicken salad 	with celery and mayo	post	half	cup	0.0	208
+Tuna salad 	with celery and mayo	post	half	cup	2.0	191
+Seafood salad 	none	none	half	cup	0.0	163
+Tuna egg salad 	with celery and mayo	post	half	cup	1.8	204
+Stir-fried shrimp and vegetables	none	none	half	cup	0.8	79
+Chef salad	no dressing	post	one	cup	0.0	71
+chicken liver	chopped	post	a quarter	cup	0.0	118
+Liver and onions	none	none	one	slice with onions	0.0	177
+"Cheeseburger,"	plain on bun	post	one	cheeseburger	12.2	317
+Quarter pound cheeseburger on bun	none	none	one	quarter pound burger	15.1	552
+Double cheeseburger on double deck bun	none	none	one	double cheeseburger	17.1	620
+Bacon cheeseburger on bun	none	none	one	cheeseburger	21.9	746
+"Hamburger, plain on bun"	plain on bun	post	one	small hamburger on bun	12.1	270
+Quarter pound hamburger on bun	none	none	one	quarter pounder	14.3	459
+Double hamburger on bun	none	none	one	double hamburger	21.4	384
+Meatball Sub	none	none	one	"6"" sub"	19.6	611
+Roast beef sandwich	none	none	one	sandwich	9.1	369
+Steak sandwich on roll	none	none	one	sandwich	10.6	344
+Philly cheese steak 	"(pepper, onion, roll)"	post	one	submarine	14.5	486
+"Club sandwich (chicken, bacon, tomato)"	none	none	one	sandwich	15.5	546
+Club sandwich 	"(chicken, bacon, tomato)"	post	one	"6"" sub"	15.6	548
+Ham sandwich 	with mayo	post	one	sandwich	8.3	271
+Chicken sandwich	with mayo	post	one	sandwich	8.4	265
+Fried chicken fillet sandwich	none	none	one	sandwich	9.4	323
+Fried fish sandwich 	with tartar sauce	post	one	regular sandwich	18.9	374
+Corn dog 	none	none	one	corn dog	8.9	280
+Pig in a blanket 	none	none	one	pig in a blanket	0.0	275
+Sausage biscuit	none	none	one	regular biscuit	2.6	438
+Beef sirloin frozen meal	none	none	one	regular meal	0.0	275
+Salisbury steak frozen meal	none	none	one	regular meal	0.0	462
+Fried chicken frozen meal	none	none	one	large meal (16 oz)	33.4	1025
+Chicken Teriyaki frozen meal	none	none	one	regular meal	5.4	361
+Chicken with rice diet frozen meal	none	none	one	regular meal	8.0	272
+Chicken fettuccine diet frozen meal	none	none	one	regular meal	0.9	265
+Turkey with dressing frozen meal	none	none	one	regular meal	83.6	484
+Shrimp with pasta diet frozen meal	none	none	one	regular meal	8.4	290
+Beef broth 	none	none	one	cup	0.0	17
+Pepperpot soup 	none	none	one	cup	0.7	104
+Chunky beef vegetable soup	none	none	one	cup	2.1	170
+Mexican beef vegetable soup	none	none	one	cup	0.0	143
+Pozole	none	none	one	cup	0.0	195
+Chicken gumbo soup	none	none	one	cup	5.1	56
+Sweet & sour soup	none	none	one	cup	23.7	73
+Chicken vegetable soup	none	none	one	cup	0.2	136
+Mexican chicken vegetable soup with rice	none	none	one	cup	0.0	182
+Hot & sour soup	none	none	one	cup	0.0	161
+Cream of chicken soup 	none	none	one	cup	0.1	117
+New England clam chowder	none	none	one	cup	0.0	149
+Lobster bisque	none	none	one	cup	0.0	248
+Chicken gravy	none	none	a quarter	cup	0.1	47
+Beef gravy	none	none	a quarter	cup	0.0	31
+Mushroom gravy	none	none	a quarter	cup	0.6	16
+Mole poblana sauce	none	none	a quarter	cup	0.0	78
+boiled egg	none	none	one	large 	0.0	77
+Fried egg	none	none	one	large 	0.0	89
+Egg white	none	none	a quarter	cup	0.0	21
+Deviled egg	none	none	half	egg	0.0	62
+Egg salad	none	none	half	cup	0.0	353
+Scrambled egg	cooked without fat	post	one	large 	0.0	78
+"Egg, cheese & sausage on English muffin"	none	none	one	regular sandwich	3.4	458
+"Egg, cheese & sausage on English muffin"	none	none	one	small sandwich	1.8	242
+Egg & sausage on biscuit	none	none	one	biscuit	2.8	565
+"Egg, cheese & bacon on biscuit"	none	none	one	biscuit	2.6	438
+Egg drop soup	none	none	one	cup	0.0	73
+Egg Beaters	none	none	half	cup	0.0	60
+"Dry beans, cooked with fat"	none	none	half	cup	0.0	165
+"Dry beans, cooked without fat"	none	none	half	cup	0.0	110
+Baked beans	none	none	half	cup	29.9	118
+Refried beans	none	none	half	cup	0.0	182
+Hummus	none	none	a quarter	cup	0.0	109
+Pork & beans	none	none	half	cup	19.1	124
+Dry blackeye peas	cooked without fat	post	half	cup	0.0	97
+Chickpeas	none	none	half	cup	0.0	148
+Split peas	none	none	half	cup	0.0	115
+Lentils	none	none	half	cup	0.0	110
+Soy nuts	none	none	a quarter	cup	0.0	110
+Tofu	none	none	one	cubic inch piece	0.0	11
+Soy sauce	none	none	one	Tablespoon	0.0	8
+Teriyaki sauce	none	none	a quarter	cup	20.8	54
+Worcestershire sauce	none	none	one	teaspoon	2.0	4
+Protein powder	none	none	one	Tablespoon	0.0	37
+Tofutti tofu frozen dessert	none	none	half	cup	65.1	180
+Bean soup	none	none	one	cup	3.0	137
+Miso soup	none	none	one	cup	0.0	84
+Bean soup with macaroni	none	none	one	cup	0.0	154
+Bean soup with ham	none	none	one	cup	5.6	221
+Split pea soup with ham	none	none	one	cup	4.0	195
+Lentil soup	none	none	one	cup	0.0	181
+Meatless bacon bits	none	none	one	Tablespoon	0.0	33
+Meatless sausage	none	none	one	link	0.0	64
+Meatless fried chicken 	none	none	one	piece	0.0	84
+Meatless hot dog 	no bun	post	one	frankfurter	0.0	163
+Soy burger	no bun	post	one	patty	0.2	125
+Veggie burger	no bun	post	one	patty	0.2	127
+Vegetarian chili	none	none	half	cup	0.0	136
+Vegetarian meatloaf 	none	none	one	slice	0.0	110
+Almonds	none	none	one	ounce (22 almonds)	0.0	164
+Brazil nuts	none	none	a quarter	cup	0.0	230
+Cashews	none	none	a quarter	cup	0.0	189
+Roasted chestnuts	none	none	a quarter	cup	0.0	88
+Shredded sweetened coconut	none	none	a quarter	cup shredded	36.3	110
+hazelnuts	none	none	one	ounce (20 nuts)	0.0	176
+Macadamia nuts	none	none	one	ounce (11 nuts)	0.0	203
+Mixed nuts	none	none	a quarter	cup	0.0	219
+Peanuts	none	none	one	ounce (32 peanuts)	0.0	170
+Pecans	none	none	one	ounce (20 halves)	0.0	196
+Pine nuts	none	none	one	Tablespoon	0.0	58
+Pistachios	none	none	a quarter	cup in shell	0.0	82
+Walnuts	none	none	one	ounce (14 halves)	0.0	185
+Peanut butter	none	none	one	Tablespoon	1.9	96
+"Peanut butter, reduced fat"	none	none	one	Tablespoon	3.1	94
+Peanut butter and jelly 	none	none	one	Tablespoon	14.0	65
+Peanut sauce	none	none	a quarter	cup	3.5	179
+Coconut milk	none	none	a quarter	cup	0.0	138
+Trail mix 	none	none	a quarter	cup	0.0	176
+Sunflower seeds	none	none	one	"ounce, hulled"	0.0	162
+Sesame seeds	none	none	a quarter	cup	0.0	213
+Flax seed	none	none	a quarter	cup	0.0	178
+White bread	none	none	one	regular slice	0.0	69
+French bread	none	none	half	mini baguette nine inch long	0.0	208
+foccacia	none	none	one	slice	0.0	182
+Pita bread 	none	none	one	medium	0.0	124
+Cheese bread	none	none	one	slice	4.0	71
+Cinnamon bread	none	none	one	slice	4.3	69
+Garlic bread	none	none	one	medium slice	0.0	96
+Diet high-fiber bread	none	none	one	regular slice	0.0	60
+Raisin bread	none	none	one	regular slice	3.1	71
+Sourdough bread	none	none	one	medium slice	0.0	69
+White roll	none	none	one	pan or dinner roll	0.0	78
+Sub roll	none	none	one	"medium (8"" long)"	0.0	262
+cinnamon bun	none	none	one	medium roll	86.1	227
+Coffee cake	none	none	one	piece 	25.5	139
+Fat-free coffee cake	none	none	one	one-inch slice	42.5	94
+Croissant	none	none	one	medium croissant 2 ounces	21.6	231
+Bagel	plain	pre	one	regular	0.0	289
+Raisin bagel	none	none	one	regular 	14.6	288
+Bread stuffing	none	none	half	"cup, moist type"	8.8	176
+Bread stick	none	none	one	medium	0.0	41
+Croutons	none	none	a quarter	cup	4.9	47
+English muffin	none	none	one	muffin	3.7	136
+English muffin with raisins	none	none	one	muffin	33.2	141
+Melba toast	none	none	one	piece	0.1	20
+ whole wheat bread	hundred percent	pre	one	regular slice	20.3	69
+Pita bread 	100% whole wheat	post	one	medium	0.9	120
+Wheat or cracked wheat bread	none	none	one	regular slice	4.4	65
+cracked wheat bread	none	none	one	large slice	5.3	78
+Wheat Bagel 	none	none	one	regular (4 oz)	0.0	300
+Cracked wheat English muffin	none	none	one	muffin	2.9	129
+Wheat roll	none	none	one	pan or dinner roll	4.5	82
+Rye bread	none	none	one	regular slice	0.0	67
+Multigrain bread	none	none	one	regular slice	9.0	65
+Diet high-fiber multigrain bread	none	none	one	regular slice	8.1	61
+Refrigerated biscuit 	none	none	one	biscuit	0.0	66
+Buttermilk biscuit	none	none	one	medium	1.8	186
+Cornbread stuffing	none	none	half	"cup, moist type"	14.1	179
+Cornbread 	none	none	one	medium muffin or square	34.8	174
+Hush puppy	none	none	one	hush puppy	0.0	74
+Corn tortilla	none	none	one	medium 	0.0	53
+Flour tortilla	none	none	one	medium	0.0	166
+Whole wheat tortilla	none	none	one	medium 	0.0	105
+Taco hell	none	none	one	medium 	0.0	62
+Blueberry muffin	none	none	one	medium 	72.2	313
+Fat-free berry muffin	none	none	one	medium 	69.1	295
+Chocolate chip muffin	none	none	one	medium 	42.4	364
+Plain muffin	none	none	one	medium 	20.8	345
+Matzo ball	none	none	one	ball	0.0	48
+Fruit bread 	none	none	one	slice 	47.3	132
+Zucchini bread	none	none	one	slice 	35.9	150
+Angel food cake	none	none	one	piece 	65.0	143
+Carrot cake	 with icing	post	one	"piece, 1-layer cake"	118.1	326
+Cheesecake	none	none	one	single serving cake	48.0	182
+Chocolate cake with icing	none	none	one	"piece, 1-layer cake"	119.0	246
+Chocolate cupcake 	with icing	post	one	medium cupcake 	51.7	150
+Ice cream cake	none	none	one	piece 	34.5	91
+Pound cake	none	none	one	piece 	101.2	350
+Upside down cake 	with fruit	post	one	piece	101.0	275
+White cake 	with icing	post	one	"piece, 2-layer cake"	214.9	415
+Yellow cake with icing	with icing	post	one	"piece, 2-layer cake"	194.8	400
+Fruit shortcake 	with whipped cream	post	one	"piece (3"" across)"	124.6	211
+Biscotti	none	none	one	biscotti	32.6	145
+Brownie	no icing	post	one	"brownie (2"" square)"	48.0	129
+Chocolate fudge cookie	none	none	one	"medium (2"" across)"	14.3	56
+Moon pie	none	none	one	moon pie	122.8	328
+Oreo cookie	none	none	one	regular	14.7	52
+hin mint cookie	none	none	one	Girl Scout thin mint	9.5	34
+Chocolate wafer cookie	none	none	one	"medium (1-3/4"" across)"	13.2	52
+Chocolate wafer cookie	none	none	one	small or thin	6.6	26
+Fig bar 	Fig Newton 	pre	one	bar 	19.2	56
+Fortune cookie	none	none	one	piece	14.0	30
+Ice cream cone 	"(wafer or cake, shell only)"	post	one	cone	0.9	17
+Marshmallow rice krispies bar	none	none	one	"bar (2"" square)"	43.1	113
+Oatmeal raisin cookie	none	none	one	"medium (2-5/8"" across)"	10.8	59
+Reduced-fat oatmeal raisin cookie	none	none	one	cookie	10.8	52
+Peanut butter cookie	none	none	one	medium	18.8	76
+Shortbread cookie	Lorna Doone	pre	one	small 	3.9	35
+Sugar cookie	none	none	one	small (2 inch across)	9.1	43
+Vanilla sandwich cookie	none	none	one	sandwich	16.7	53
+Vanilla wafer	none	none	one	medium	4.5	18
+Apple pie	two crust	post	one	"piece (1/8 of 9"" pie)"	62.2	356
+Apple pie with crumb topping	none	none	one	"piece (1/8 of 9"" pie)"	113.0	363
+Chocolate cream pie	none	none	one	"piece (1/8 of 9"" pie)"	93.7	380
+Pumpkin pie	none	none	one	"piece (1/8 of 9"" pie)"	62.9	323
+Lemon meringue pie	none	none	one	"piece (1/8 of 9"" pie)"	172.3	367
+Pecan pie	none	none	one	"piece (1/8 of 9"" pie)"	170.4	456
+Cheese blintz	none	none	one	blintz	1.2	134
+Fruit blintz	none	none	one	blintz	2.0	123
+Peach cobbler	none	none	half	cup	69.6	209
+Apple crisp	none	none	half	cup	59.5	192
+Cream puff 	none	none	one	éclair	26.9	267
+Plain Danish pastry	none	none	one	"medium (4-1/4"" across)"	45.4	262
+Fruit-filled Danish pastry	none	none	one	"medium (4-1/4"" across)"	60.3	263
+Cheese Danish pastry	none	none	one	"medium (5"" across)"	29.6	419
+Fat-free cheese Danish pastry	none	none	one	slice	41.4	95
+Cake doughnut	none	none	one	"medium (3-1/4"" across)"	38.7	198
+Chocolate raised doughnut	frosted	post	one	"medium (3"" across)"	88.5	275
+Raised doughnut	none	none	one	"medium (3-3/4"" across)"	52.8	242
+Jelly doughnut	none	none	one	piece	51.7	221
+Pop Tart	none	none	one	piece	37.7	204
+Breakfast bar	none	none	one	bar	49.9	139
+Meal replacement bar	 Slim Fast 	pre	one	bar	31.1	143
+Granola bar	none	none	one	bar	27.6	130
+Lowfat granola bar	none	none	one	bar	32.6	95
+Chocolate-covered granola bar	Quaker Oats 	pre	one	bar	49.0	133
+Powerbar	none	none	one	bar	43.5	229
+Animal cracker	none	none	a quarter	individual box	7.2	64
+Graham cracker	none	none	one	large rectangle (2 squares)	16.7	59
+Snack cracker	none	none	one	round cracker (Ritz)	0.2	15
+Reduced-fat snack cracker	none	none	one	round cracker (Ritz)	0.8	12
+Cheese cracker	none	none	a quarter	cup bit-size crackers	0.0	67
+Reduced fat cheese cracker	none	none	a quarter	cup	0.1	50
+Matzo	none	none	one	matzo	0.0	111
+Saltine cracker	none	none	one	square cracker	0.0	13
+Peanut butter sandwich cracker	none	none	one	sandwich	0.9	12
+Cheese sandwich cracker	none	none	one	sandwich	0.3	33
+whole wheat cracker 	Triscuit	pre	one	cracker	0.0	18
+Reduced-fat Triscuit	none	none	one	cracker	0.0	16
+Wheat cracker	none	none	eight	Wheat Thins	7.8	76
+Corn chips 	Fritos	pre	one	cup	0.0	237
+Corn puffs	Cheetos	pre	one	cup	0.0	194
+Tortilla chips 	"Doritos, Tostitos"	pre	one	cup	0.0	160
+Low-fat corn puffs 	cheese curls	post	one	cup	0.0	104
+Popcorn	" oil popped, no butter"	post	one	"bag, popped"	0.0	440
+Buttered popcorn	none	none	one	"bag, popped"	0.0	458
+Caramel corn	none	none	one	popcorn ball	104.0	216
+Hard pretzels	none	none	one	single serving bag (1 oz)	0.0	107
+Soft pretzel	none	none	one	medium (4 oz)	0.0	389
+Snack Mix 	none	none	a quarter	cup	2.0	47
+Blueberry pancakes	none	none	two	"medium (5"" across)"	3.6	152
+Whole wheat pancakes	none	none	two	"medium (5"" across)"	9.9	183
+Waffle	none	none	one	"round (4"" across)"	3.2	103
+Lowfat waffle	none	none	one	"square (4"" square)"	28.6	87
+French toast	none	none	one	regular slice (2 oz)	15.5	158
+French toast sticks	none	none	one	stick	14.9	76
+Spaghetti	none	none	one	"cup, cooked"	0.0	196
+macaroni	none	none	one	"cup, cooked"	0.0	196
+pasta	none	none	one	"cup, cooked"	0.0	196
+Egg noodles	none	none	one	"cup, cooked"	0.0	211
+Egg noodles with butter or oil	none	none	one	"cup, cooked"	0.0	252
+Mung bean noodles	none	none	one	"cup, cooked"	0.0	160
+Chow fun rice noodles	none	none	one	"cup, cooked"	0.0	171
+Whole wheat spaghetti 	none	none	one	"cup, cooked"	0.0	172
+Cooked barley	none	none	half	cup	0.0	99
+Grits	none	none	half	"cup, cooked"	0.0	56
+"Grits, with butter"	none	none	half	"cup, cooked"	0.0	89
+Oatmeal	plain	post	half	"cup, cooked"	0.0	73
+White rice	none	none	half	"cup, cooked"	0.0	102
+Brown rice	none	none	half	"cup, cooked"	0.0	107
+Wild rice	none	none	half	"cup, cooked"	0.0	65
+Cream of wheat	none	none	half	"cup, cooked"	0.0	55
+All-Bran cereal	none	none	one	single serving box	24.9	91
+Apple Jacks cereal	none	none	one	single serving box	49.7	105
+Cap'n Crunch cereal	none	none	one	cup	60.3	144
+Cheerios	none	none	one	single serving box	2.8	77
+Chex cereal 	none	none	one	cup	14.6	143
+Cinnamon Toast Crunch cereal	none	none	one	single serving box	43.2	139
+Cocoa Puffs cereal	none	none	one	cup	54.3	117
+Corn flakes	cereal	post	one	single serving box	4.8	76
+Fiber One cereal	none	none	one	cup	0.0	118
+Bran flakes cereal	none	none	one	cup	31.6	144
+Froot Loops cereal	none	none	one	single serving box	48.8	106
+Frosted Mini-Wheats cereal	none	none	one	single serving box	26.1	119
+Fruity Pebbles cereal	none	none	one	cup	61.2	144
+Golden Grahams cereal	none	none	one	cup	52.7	149
+Granola cereal	 (homemade)	pre	half	cup	22.4	299
+Low-fat granola cereal	none	none	half	cup	59.8	209
+Grape-Nuts cereal	none	none	a quarter	cup	12.1	98
+Honey Bunches of Oats cereal	none	none	one	cup	32.3	158
+Honeycomb cereal	none	none	one	cup	32.1	87
+Honey Nut Cheerios	none	none	one	single serving box	36.9	104
+Honey Smacks cereal	none	none	one	cup	84.3	151
+Kashi	puffed cereal	post	one	cup	0.0	88
+Kix cereal	none	none	one	single serving box	7.3	68
+Life cereal	plain & cinnamon	post	one	cup	32.1	165
+Lucky Charms cereal	none	none	one	cup	49.6	114
